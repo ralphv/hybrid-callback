@@ -18,15 +18,19 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "coveralls": "^2.11.16",
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "*",
+    "grunt-coveralls": "^1.0.1",
     "grunt-mocha-test": "*",
     "grunt-shell": "*",
     "mocha": "^3.2.0",
+    "mocha-lcov-reporter": "^1.2.0",
     "should": "*"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "ci": "grunt cover; grunt coveralls"
   },
   "main": "index.js"
 }

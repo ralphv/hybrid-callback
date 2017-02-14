@@ -1,7 +1,9 @@
 ## hybrid-callback - A very simple node.js hybrid callback pattern library
 
 [![NPM](https://nodei.co/npm/hybrid-callback.png?mini=true)](https://nodei.co/npm/hybrid-callback/)
-
+[![Build Status](https://travis-ci.org/ralphv/hybrid-callback.svg?branch=master)](https://travis-ci.org/ralphv/hybrid-callback)
+[![Coverage Status](https://coveralls.io/repos/github/ralphv/hybrid-callback/badge.svg?branch=master)](https://coveralls.io/github/ralphv/hybrid-callback?branch=master)
+        
 * [What is it?](#what-is-it)
 * [Getting started](#getting-started)
 * [Usage](#usage)
