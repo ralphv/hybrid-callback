@@ -29,7 +29,7 @@
     "should": "*"
   },
   "scripts": {
-    "test": "grunt test; grunt cover; grunt coveralls",
+    "test": "grunt test;",
     "ci": "grunt cover; grunt coveralls"
   },
   "main": "index.js"
