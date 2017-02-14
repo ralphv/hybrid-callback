@@ -1,6 +1,6 @@
 /**
  * Created by Ralph Varjabedian on 11/14/14.
- * require-hook is licensed under the [MIT]
+ * hybrid-callback is licensed under the [MIT]
  * do not remove this notice.
  */
 
