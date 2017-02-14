@@ -1,0 +1,35 @@
+{
+  "name": "hybrid-callback",
+  "version": "1.0.0",
+  "description": "A very simple node.js hybrid callback pattern library",
+  "keywords": [
+    "callback", "promise", "pattern"
+  ],
+  "homepage": "https://bitbucket.org/ralphv/cb-result",
+  "author": "ralph varjabedian",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/ralphv/cb-result.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "should": "*",
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-shell": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "main": "index.js",
+  "cmd-util":  {
+    "name": "cb-result",
+    "project": ""
+  }
+}
