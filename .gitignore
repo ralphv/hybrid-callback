@@ -2,5 +2,4 @@
 /node_modules
 /cov-reports
 npm-debug.log
-.coveralls.yml
 
